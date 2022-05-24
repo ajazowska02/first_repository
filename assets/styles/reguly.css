@@ -1,0 +1,21 @@
+{
+    color: purple; /*kolor czcionki*/
+background-color: purple; /*- tła*/
+text-align: left/right/center/justify; /*- pozycja tekstu*/
+font-weight: bold/light/400(normal)/7000(bold);
+text-decoration: blue underline/overline/underline dotted/wavy/none; /*- linia dekoracyjna teksty*/
+line-height: normal/2.5/3em; /*- interlinia*/
+letter-spacing: 10px; /*- odstęp między literami*/
+font-size: 12px/smaller/%;
+font-family: serif/cursive/system-ui;
+text-tranform: uppercase /*wielkie litery*/
+}
+
+
+
+Selektory - f. 69
+{
+    .class
+    #ID
+    
+}
